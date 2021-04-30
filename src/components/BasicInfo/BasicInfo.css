@@ -1,0 +1,13 @@
+.basic-info-area{
+    background-color: #3A42FF;
+    color: white;
+    margin: 30px 0;
+    padding: 20px;
+    border-radius: 10px;
+}
+.league-name{
+    margin-bottom: 20px;
+}
+.infoLogo{
+    margin-right: 7px;
+}

@@ -1,0 +1,12 @@
+.banner-area{
+    height: 15rem;
+    background: rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
